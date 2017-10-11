@@ -7,5 +7,5 @@ def fizzbuzz(num)
    "FizzBuzz"
 
 
-
+end
 end
